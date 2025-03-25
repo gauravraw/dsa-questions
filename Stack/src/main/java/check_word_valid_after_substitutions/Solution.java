@@ -1,6 +1,6 @@
 package check_word_valid_after_substitutions;
 
-import java.util.*;
+import java.util.Stack;
 
 public class Solution {
 
